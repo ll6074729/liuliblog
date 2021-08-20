@@ -1,5 +1,6 @@
 module.exports = {
   lang: 'zh-CN',
+  base: '/liuliblog/',
   title: '小理哥的小博客',
   description: '这是我的第一个 VuePress 站点',
   themeConfig: {
